@@ -2,8 +2,8 @@
 
 Adds Somersloop and Mercer Sphere as a purchasable part in the AWESOME shop.
 
-Price of one Somersloop is 50 coupons.
-Price of one Mercer Sphere is 20 coupons.
+Price of one Somersloop is 20 coupons.
+Price of one Mercer Sphere is 10 coupons.
 
 You need to complete the initial research for an artifact in the M.A.M. in order to see it in the shop.
 
