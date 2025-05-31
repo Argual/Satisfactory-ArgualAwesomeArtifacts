@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.00.1",
+	"VersionName": "1.0.2",
 	"FriendlyName": "Awesome Artifacts",
 	"Description": "Adds artifacts to the awesome shop.",
 	"Category": "Modding",
@@ -18,11 +18,11 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.0"
 		}
 	],
-	"SemVersion": "1.0.1",
-	"GameVersion": ">=365306",
+	"SemVersion": "1.0.2",
+	"GameVersion": ">=410840",
 	"LocalizationTargets": [
 		{
 			"Name": "ArgualAwesomeArtifacts",
