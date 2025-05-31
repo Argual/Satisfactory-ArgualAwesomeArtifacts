@@ -14,3 +14,7 @@ I wanted to reward sinking large amounts of items with something that can be ben
 ### Known issues  
 
 You can raise new issues [here]([https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen](https://github.com/Argual/Satisfactory-ArgualAwesomeArtifacts/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)). Please provide detailed information, and maybe even a save file set up for quick inspection. I spend limited time in Discord, so the main way to reach me is through the issues page.
+
+
+### If you enjoy my work...  
+consider [buying me a coffee](https://buymeacoffee.com/argual) ;).
